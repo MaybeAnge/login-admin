@@ -11,7 +11,7 @@
 
     <div class="container-outer">
         <div class="container-inner">
-            <img src="/assets/images/user-profil.png" alt="">
+            <img src="/assets/images/user-profil.png" alt="Maybe Ange - Maybe Ange™ Corporation">
             <h1>Login Admin</h1>
             <input type="username" placeholder="Username">
             <input type="email" placeholder="E-mail Address">
