@@ -3,9 +3,6 @@
 
 This project aims to create a special admin login page with enhanced security measures, including sending a generated password by email.
 
-
-
-
 ## 🎯 Features
 
 - A temporary password is automatically generated and sent by email when requesting a password reset.
