@@ -1,23 +1,24 @@
 
-# Login Page
+# ✨ Login Page
 
 This project aims to create a special admin login page with enhanced security measures, including sending a generated password by email.
 
 
 
 
-## Features
+## 🎯 Features
 
 - A temporary password is automatically generated and sent by email when requesting a password reset.
 - Passwords are stored securely using hashing algorithms.
 - Other features may be changed or improved.
 
-## Required configuration
+## 💻 Required configuration
 
 - Web server with PHP support.
 - MySQL (or another database) for storing user information.
 - SendMail for sending emails (Local only for testing - optional).
-## Installation
+  
+## 💾 Installation
 
 **Clone the repository:**
 
@@ -36,14 +37,14 @@ This project aims to create a special admin login page with enhanced security me
 
 - Then configure the database connection file
 
-## Tech Stack
+## 🧩 Tech Stack
 
 **Programming languages:** PHP, HTML, CSS, JAVASCRIPT
 
 **Servers:** Wampserver, PHP Server
 
 
-## Used By
+## 👳 Used By
 
 This project is used by the following company:
 
@@ -51,7 +52,7 @@ This project is used by the following company:
 - Maybe Ange™ Corporation
 
 
-## 🧵License
+## 🧵 License
 
 License: CC-BY-ND-4.0
 
@@ -64,6 +65,7 @@ The content of this website may not be reproduced, distributed, modified, public
 The names, logos and trademarks of Maybe Ange™ Corporation are the exclusive property of Maybe Ange (DURAND Jimmy) and may not be used without the prior written permission of Maybe Ange™ Corporation. Any unauthorized use of these names, logos and company is a violation of copyright and company rights and may result in legal action.
 
 By using this website, you agree to respect the copyrights and trademarks of Maybe Ange™ Corporation. If you have any questions or concerns regarding Maybe Ange™ Corporation copyrights or trademarks, please contact our teams at the following email address: contact.support@maybe-ange.com
+
 ## 👑 Director: Maybe Ange
 
 WebSite: https://maybe-ange.com <br>
